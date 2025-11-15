@@ -1,5 +1,8 @@
 # Training Consistent Mixture-of-Experts-Based Prompt Generator for Continual Learning
 
+[Paper link](https://drive.google.com/file/d/14E53G6LPEKy3BD_67W88mi5uz7frI_Q_/view?usp=drive_link)
+[Appendix link](https://drive.google.com/file/d/1awUxLck8j6OlJaI0mdpdociLpPfr2d-h/view?usp=drive_link)
+
 ## Environment
 
 - GPU: NVIDIA GeForce RTX 4090
